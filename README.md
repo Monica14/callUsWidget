@@ -1,4 +1,6 @@
-CallUsWidget 
+```html
+<b> CallUsWidget </b>
+```
 
 To integrate this widget you will need to follow below steps : 
 
@@ -16,7 +18,7 @@ To integrate this widget you will need to follow below steps :
 ```
 
 3. Add Below script to your file
-
+```html
     <script>
         // When the user clicks on widget button
         let ads_callButton = async () => {
@@ -53,6 +55,6 @@ To integrate this widget you will need to follow below steps :
             popup.innerHTML = `${buttonText} <br/> ${phone_number}`;
         }
     </script>
-
+```
     4. Run the html file
 
