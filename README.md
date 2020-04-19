@@ -3,15 +3,17 @@ CallUsWidget
 To integrate this widget you will need to follow below steps : 
 
 1.Add Below code in your HTML file
-
+```html
 <div class="ads_callWidget" onclick="ads_callButton()">Call Us Now
     <span class="callWidgetContent" id="callWidgetBox"></span>
 </div>
+```
 
 2. Import below css file
    Note :- file location can vary based on your folder structure for css 
-
+```html
 <link rel="stylesheet" type="text/css" href="./callbutton.css" />
+```
 
 3. Add Below script to your file
 
