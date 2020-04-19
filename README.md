@@ -1,6 +1,4 @@
-```html
-<b> CallUsWidget </b>
-```
+CallUsWidget
 
 To integrate this widget you will need to follow below steps : 
 
